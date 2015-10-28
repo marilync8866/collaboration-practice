@@ -1,4 +1,4 @@
-# Collaboration Practice
+# Collaboration Practice Marilyn Cordero And William Molina
 ## _Practicing Merges & Conflicts_
 
 The purpose of this activity is to practice collaboration with Git and GitHub.  You will practice both automatic merges as well as merge conflicts (and resolving those conflicts).
